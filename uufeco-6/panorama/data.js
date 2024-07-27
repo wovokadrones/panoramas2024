@@ -39,7 +39,7 @@ var APP_DATA = {
   "name": "UUFECO 6",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }

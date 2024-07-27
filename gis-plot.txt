@@ -1,0 +1,42 @@
+Filename	Image	 Latitude	 Longitude	Virtual Tour 360	Group
+Wovoka_Panorama (1).JPG	SMB 1	13.71588939	123.1287036	https://wovokadrones.github.io/panoramas2024/smb-1/panorama	San Miguel Bay
+Wovoka_Panorama (10).JPG	SMB 10	13.72496597	123.1865784	https://wovokadrones.github.io/panoramas2024/smb-10/panorama	San Miguel Bay
+Wovoka_Panorama (11).JPG	UUFECO 1	14.17734967	122.5408256	https://wovokadrones.github.io/panoramas2024/uufeco-1/panorama	UUFECO
+Wovoka_Panorama (12).JPG	UUFECO 2	14.17997431	122.5414546	https://wovokadrones.github.io/panoramas2024/uufeco-2/panorama	UUFECO
+Wovoka_Panorama (13).JPG	UUFECO 3	14.18367394	122.5437328	https://wovokadrones.github.io/panoramas2024/uufeco-3/panorama	UUFECO
+Wovoka_Panorama (14).JPG	UUFECO 4	14.18050742	122.549799	https://wovokadrones.github.io/panoramas2024/uufeco-4/panorama	UUFECO
+Wovoka_Panorama (15).JPG	UUFECO 5	14.17662917	122.5549494	https://wovokadrones.github.io/panoramas2024/uufeco-5/panorama	UUFECO
+Wovoka_Panorama (16).JPG	UUFECO 6	14.1898235	122.548636	https://wovokadrones.github.io/panoramas2024/uufeco-6/panorama	UUFECO
+Wovoka_Panorama (17).JPG	UUFECO 7	14.18465761	122.534669	https://wovokadrones.github.io/panoramas2024/uufeco-7/panorama	UUFECO
+Wovoka_Panorama (18).JPG	UUFECO 8	14.17913506	122.5383296	https://wovokadrones.github.io/panoramas2024/uufeco-8/panorama	UUFECO
+Wovoka_Panorama (19).JPG	UUFECO 9	14.19321858	122.5155772	https://wovokadrones.github.io/panoramas2024/uufeco-9/panorama	UUFECO
+Wovoka_Panorama (2).JPG	SMB 2	13.7218995	123.1283622	https://wovokadrones.github.io/panoramas2024/smb-2/panorama	San Miguel Bay
+Wovoka_Panorama (20).JPG	UUFECO 10	14.19539297	122.5178969	https://wovokadrones.github.io/panoramas2024/uufeco-10/panorama	UUFECO
+Wovoka_Panorama (21).JPG	UUFECO 11	14.19254131	122.5163116	https://wovokadrones.github.io/panoramas2024/uufeco-11/panorama	UUFECO
+Wovoka_Panorama (22).JPG	MUFFIN 1	13.92667581	123.0700755	https://wovokadrones.github.io/panoramas2024/muffin-1/panorama	MUFFIN
+Wovoka_Panorama (23).JPG	MUFFIN 2	13.92508708	123.0693771	https://wovokadrones.github.io/panoramas2024/muffin-2/panorama	MUFFIN
+Wovoka_Panorama (24).JPG	MUFFIN 3	13.92753119	123.0687964	https://wovokadrones.github.io/panoramas2024/muffin-3/panorama	MUFFIN
+Wovoka_Panorama (25).JPG	MUFFIN 4	13.92832575	123.0671477	https://wovokadrones.github.io/panoramas2024/muffin-4/panorama	MUFFIN
+Wovoka_Panorama (26).JPG	MUFFIN 5	13.92494769	123.065601	https://wovokadrones.github.io/panoramas2024/muffin-5/panorama	MUFFIN
+Wovoka_Panorama (27).JPG	MUFFIN 6	13.92607608	123.0646979	https://wovokadrones.github.io/panoramas2024/muffin-6/panorama	MUFFIN
+Wovoka_Panorama (28).JPG	MUFFIN 7	13.92597297	123.0607607	https://wovokadrones.github.io/panoramas2024/muffin-7/panorama	MUFFIN
+Wovoka_Panorama (29).JPG	MUFFIN 8	13.92622983	123.0561237	https://wovokadrones.github.io/panoramas2024/muffin-8/panorama	MUFFIN
+Wovoka_Panorama (3).JPG	SMB 3	13.72516444	123.1262002	https://wovokadrones.github.io/panoramas2024/smb-3/panorama	San Miguel Bay
+Wovoka_Panorama (30).JPG	MUFFIN 9	13.92421	123.0578849	https://wovokadrones.github.io/panoramas2024/muffin-9/panorama	MUFFIN
+Wovoka_Panorama (31).JPG	MUFFIN 10	13.92605947	123.0647924	https://wovokadrones.github.io/panoramas2024/muffin-10/panorama	MUFFIN
+Wovoka_Panorama (32).JPG	MUFFIN 11	13.92588439	123.0576212	https://wovokadrones.github.io/panoramas2024/muffin-11/panorama	MUFFIN
+Wovoka_Panorama (33).JPG	MUFFIN 12	13.92363636	123.0527397	https://wovokadrones.github.io/panoramas2024/muffin-12/panorama	MUFFIN
+Wovoka_Panorama (34).JPG	MUFFIN 13	13.93285653	123.0498094	https://wovokadrones.github.io/panoramas2024/muffin-13/panorama	MUFFIN
+Wovoka_Panorama (35).JPG	ECOFARM 1	14.23785794	122.413118	https://wovokadrones.github.io/panoramas2024/ecofarm-1/panorama	ECOFARM
+Wovoka_Panorama (36).JPG	ECOFARM 2	14.24190069	122.4081429	https://wovokadrones.github.io/panoramas2024/ecofarm-2/panorama	ECOFARM
+Wovoka_Panorama (37).JPG	ECOFARM 3	14.24591497	122.4061639	https://wovokadrones.github.io/panoramas2024/ecofarm-3/panorama	ECOFARM
+Wovoka_Panorama (38).JPG	ECOFARM 4	14.24675422	122.4028926	https://wovokadrones.github.io/panoramas2024/ecofarm-4/panorama	ECOFARM
+Wovoka_Panorama (39).JPG	ECOFARM 5	14.24230792	122.4049697	https://wovokadrones.github.io/panoramas2024/ecofarm-5/panorama	ECOFARM
+Wovoka_Panorama (4).JPG	SMB 4	13.72338311	123.1293734	https://wovokadrones.github.io/panoramas2024/smb-4/panorama	San Miguel Bay
+Wovoka_Panorama (40).JPG	ECOFARM 6	14.23335922	122.4185145	https://wovokadrones.github.io/panoramas2024/ecofarm-6/panorama	ECOFARM
+Wovoka_Panorama (41).JPG	ECOFARM 7	14.2376765	122.4122571	https://wovokadrones.github.io/panoramas2024/ecofarm-7/panorama	ECOFARM
+Wovoka_Panorama (5).JPG	SMB 5	13.72178383	123.1386708	https://wovokadrones.github.io/panoramas2024/smb-5/panorama	San Miguel Bay
+Wovoka_Panorama (6).JPG	SMB 6	13.71695647	123.1451964	https://wovokadrones.github.io/panoramas2024/smb-6/panorama	San Miguel Bay
+Wovoka_Panorama (7).JPG	SMB 7	13.72025097	123.1872942	https://wovokadrones.github.io/panoramas2024/smb-7/panorama	San Miguel Bay
+Wovoka_Panorama (8).JPG	SMB 8	13.72237911	123.186564	https://wovokadrones.github.io/panoramas2024/smb-8/panorama	San Miguel Bay
+Wovoka_Panorama (9).JPG	SMB 9	13.72361767	123.1867088	https://wovokadrones.github.io/panoramas2024/smb-9/panorama	San Miguel Bay
